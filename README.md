@@ -33,22 +33,27 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 
 ## 🌍 Experiences in Ecology
 
-### September 2018 - May 2019 : **Teaching assistant** (*Université du Québec à Montréal*)
+### **Teaching assistant**
+**September 2018 - May 2019** | *Université du Québec à Montréal*
 - Management and teaching of students experiments in an introductory course in ecology
 - Grading of students reports
 
-### November 2016 - August 2017 : **Research assistant** (*Centre de Recherche et de Formation en Eco-Ethologie de l'Université de Reims*)
+### **Research assistant**
+**November 2016 - August 2017** | *Centre de Recherche et de Formation en Eco-Ethologie de l'Université de Reims*
 - Fieldwork to gather samples of DNA for several pine marten (*Martes martes*) populations in the Pyrénées mountains of France
 - Creation of a website to describe the project and improve communications with stakeholders
 
-### February 2016 - July 2016 : **Research internship** (*Centre de Coopération Internationale en Recherche Agronomique pour le Développement*)
+###  : **Research internship**
+**February 2016 - July 2016** | *Centre de Coopération Internationale en Recherche Agronomique pour le Développement*
 - Data processing of camera-trap photography in the surrounding of six villages in the Congo Bassin, Africa
 - Usage of the PRESENCE model to estimates variations in occurence probability of several species relative to different explenatory variables (hunting pressure, distance to village, etc.)
 
-### Spring 2015 : **Research internship** (*Laboratoire de Biométrie et de Biologie Evolutive*)
+### **Research internship**
+**Spring 2015** | *Laboratoire de Biométrie et de Biologie Evolutive*
 - Data processing of video neophobia tests recorded on the island of Gotland, Sweden, on population of collared flycatchers (*Ficedula albicollis*)
 - Use of statistical tests to compare the neophobia of colonizing or non-colonizing collared flycatcher individuals
 
-### August 2014 : **Volunterring** (*Station d'Observation et de Protection des Tortues et de leurs Milieux*)
+### **Volunterring**
+**August 2014** | *Station d'Observation et de Protection des Tortues et de leurs Milieux*
 - Care of several different species or turtles from all around the world (feeding, cleaning, etc.)
 - Guided tours of the park to the public, talking about the different species and conservation issues related to turtles in France and in the world
