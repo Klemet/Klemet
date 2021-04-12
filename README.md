@@ -48,7 +48,6 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 - Data processing of camera-trap photography in the surrounding of six villages in the Congo Bassin, Africa
 - Usage of the PRESENCE model to estimates variations in occurence probability of several species relative to different explenatory variables (hunting pressure, distance to village, etc.)
 
-### **Research internship**
 **Spring 2015** | *Laboratoire de Biométrie et de Biologie Evolutive*
 - Data processing of video neophobia tests recorded on the island of Gotland, Sweden, on population of collared flycatchers (*Ficedula albicollis*)
 - Use of statistical tests to compare the neophobia of colonizing or non-colonizing collared flycatcher individuals
