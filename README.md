@@ -43,7 +43,7 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 - Fieldwork to gather samples of DNA for several pine marten (*Martes martes*) populations in the Pyrénées mountains of France
 - Creation of a website to describe the project and improve communications with stakeholders
 
-###  : **Research internship**
+### **Research internship**
 **February 2016 - July 2016** | *Centre de Coopération Internationale en Recherche Agronomique pour le Développement*
 - Data processing of camera-trap photography in the surrounding of six villages in the Congo Bassin, Africa
 - Usage of the PRESENCE model to estimates variations in occurence probability of several species relative to different explenatory variables (hunting pressure, distance to village, etc.)
