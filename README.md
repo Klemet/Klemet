@@ -6,7 +6,7 @@ Welcome ! I am Clément (he/his), a PhD student at the Université du Québec à
 
 Due to the nature of my research and my hobbies, I develloped through time some skills in programming, management, organisation and leadership. I tend to hone those skills by develloping and supporting [open-source software](https://en.wikipedia.org/wiki/Open-source_software), and by helping different groups and projects with whom I collaborate in and out of my professional life. My strongest drive is to improve the way that we learn about the world and each other through effective communication, but also a better understanding of how humans lived, thought and acted since our humble beginnings as a species.
 
-![](https://img.shields.io/badge/Langage-French%20(native)-D72347#.png) ![](https://img.shields.io/badge/Langage-English%20(C2)-D72347#.png)
+![](https://img.shields.io/badge/Langage-French%20(native)-D72347) ![](https://img.shields.io/badge/Langage-English%20(C2)-D72347)
 
 ![](https://img.shields.io/badge/GitHub-Klemet-lightgrey?logo=GitHub) ![](https://img.shields.io/badge/Linkedin-Cl%C3%A9ment%20Hardy-0A66C2?logo=linkedin) ![](https://img.shields.io/badge/ResearchGate-Cl%C3%A9ment%20Hardy-00CCBB?logo=researchgate) ![](https://img.shields.io/badge/Flickr-Cl%C3%A9ment%20De%20Riv-347deb?logo=flickr)
 
