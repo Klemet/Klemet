@@ -8,7 +8,10 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 
 ![](https://img.shields.io/badge/Langage-French%20(native)-D72347) ![](https://img.shields.io/badge/Langage-English%20(C2)-D72347)
 
-![](https://img.shields.io/badge/GitHub-Klemet-lightgrey?logo=GitHub) ![](https://img.shields.io/badge/Linkedin-Cl%C3%A9ment%20Hardy-0A66C2?logo=linkedin) ![](https://img.shields.io/badge/ResearchGate-Cl%C3%A9ment%20Hardy-00CCBB?logo=researchgate) ![](https://img.shields.io/badge/Flickr-Cl%C3%A9ment%20De%20Riv-347deb?logo=flickr)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Klemet-lightgrey?logo=GitHub)](https://github.com/Klemet) 
+[![Linkedin Profile](https://img.shields.io/badge/Linkedin-Cl%C3%A9ment%20Hardy-0A66C2?logo=linkedin)](https://www.linkedin.com/in/clement-hardy-ecology/) 
+[![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Cl%C3%A9ment%20Hardy-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Clement-Hardy-3) 
+[![Flickr Profile](https://img.shields.io/badge/Flickr-Cl%C3%A9ment%20De%20Riv-347deb?logo=flickr)](https://flickr.com/photos/135911843@N03/)
 
 * * *
 
