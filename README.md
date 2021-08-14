@@ -15,15 +15,19 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 
 * * *
 
+💡 **Check out [my new workshop to help you discover open-source software and organization methods](https://klemet.github.io/Workshop-Organization-EN/) !**
+
+* * *
+
 ## ✒️ Currently working on
 
 - The [Forest Roads Simulation extension for the LANDIS-II model](https://github.com/Klemet/LANDIS-II-Forest-Roads-Simulation-module)
 
 ## ☄️ Currently fascinated by
 
-- The [History of Rome podcast by Mike Duncan](https://thehistoryofrome.typepad.com/)
+- The [*Revolutions* podcast by Mike Duncan](https://thehistoryofrome.typepad.com/)
 - The [Zettelkasten method of information management](https://zettelkasten.de/posts/overview/)
-- The book ["The Longest Struggle" by Norm Phelps](https://www.goodreads.com/book/show/1890134.The_Longest_Struggle)
+- The book [*The Longest Struggle* by Norm Phelps](https://www.goodreads.com/book/show/1890134.The_Longest_Struggle)
 
 ## 🎓 Education
 
