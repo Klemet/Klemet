@@ -19,9 +19,13 @@ Due to the nature of my research and my hobbies, I develloped through time some 
 
 * * *
 
-## ✒️ Currently working on
+## ✒️ Tools and things I develloped
 
-- The [Forest Roads Simulation extension for the LANDIS-II model](https://github.com/Klemet/LANDIS-II-Forest-Roads-Simulation-module)
+<a href="https://github.com/Klemet/ForestRoadNetworkPluginForQGIS">
+<img src="https://raw.githubusercontent.com/Klemet/ForestRoadNetworkPluginForQGIS/master/Logo_FR_Plugin.svg" width="250"></a> <a href="https://github.com/Klemet/LANDIS-II-Forest-Roads-Simulation-module">
+<img src="https://raw.githubusercontent.com/Klemet/LANDIS-II-Forest-Roads-Simulation-module/master/docs/FRS_module_logo.svg" width="250"></a> 
+<a href="https://klemet.github.io/Workshop-Organization-EN/">
+<img src="https://raw.githubusercontent.com/Klemet/Workshop-Organization-EN/main/imgs/Logo%20atelier%20organisation%20EN.svg" width="250"></a>
 
 ## ☄️ Currently fascinated by
 
